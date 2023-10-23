@@ -1,0 +1,23 @@
+payload:
+#docker
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docker.io
+#不良林
+  - DOMAIN-SUFFIX,bulianglin.com
+#tmdb
+  - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN-SUFFIX,tmdb.org
+#mdcxx
+  - DOMAIN-SUFFIX,airav.cc
+  - DOMAIN-SUFFIX,paycalling.com
+  - DOMAIN-SUFFIX,javdb.com
+  - DOMAIN-SUFFIX,xcity.jp
+  - DOMAIN-SUFFIX,www.lulubar.net
+  - DOMAIN-SUFFIX,www.kin8tengoku.com
+#pornhub
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,phncdn.com
+#油猴
+  - DOMAIN-SUFFIX,greasyfork.org
+#ohgpt
+  - DOMAIN-SUFFIX,api.ohmygpt.com
