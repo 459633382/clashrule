@@ -1,0 +1,12 @@
+payload:
+#google gmail
+  - DOMAIN-SUFFIX,accounts.google.com,🇺🇸 美国
+  - DOMAIN-SUFFIX,mail.google.com,🇺🇸 美国
+  - DOMAIN-SUFFIX,gmail.com,🇺🇸 美国
+  - DOMAIN-SUFFIX,play.google.com,🇺🇸 美国
+  - DOMAIN-SUFFIX,mail-ads.google.com,🇺🇸 美国
+#google voice
+  - DOMAIN-SUFFIX,voice.google.com,🇺🇸 美国
+  - DOMAIN-SUFFIX,web.voice.telephony.goog,🇺🇸 美国
+  - DOMAIN-SUFFIX,payments.google.com,🇺🇸 美国
+  - DOMAIN-SUFFIX,ogs.google.com,🇺🇸 美国
