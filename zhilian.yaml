@@ -1,11 +1,15 @@
-- DOMAIN-SUFFIX,leaves.red,DIRECT
-- DOMAIN-SUFFIX,ptchdbits.co,DIRECT
-- DOMAIN-SUFFIX,pt.0ff.cc,DIRECT
-- DOMAIN-SUFFIX,shadowflow.org,DIRECT
-- DOMAIN-SUFFIX,xp.m-team.io,DIRECT
-- DOMAIN-SUFFIX,s3.pterclub.com,DIRECT
-- DOMAIN-SUFFIX,widevine.pterclub.top,DIRECT
-- DOMAIN-SUFFIX,hetzner.company,DIRECT
-- DOMAIN-SUFFIX,hetzner.cloud,DIRECT
-- DOMAIN-SUFFIX,hetzner.com,DIRECT
-- DOMAIN-SUFFIX,dota2.com,🎯 游戏平台
+#pt
+  - DOMAIN-SUFFIX,leaves.red
+  - DOMAIN-SUFFIX,ptchdbits.co
+  - DOMAIN-SUFFIX,pt.0ff.cc
+  - DOMAIN-SUFFIX,shadowflow.org
+  - DOMAIN-SUFFIX,xp.m-team.io
+  - DOMAIN-SUFFIX,s3.pterclub.com
+#腾讯抓包
+  - DOMAIN-SUFFIX,widevine.pterclub.top
+#hetzner
+  - DOMAIN-SUFFIX,hetzner.company
+  - DOMAIN-SUFFIX,hetzner.cloud
+  - DOMAIN-SUFFIX,hetzner.com
+#dota2
+  - DOMAIN-SUFFIX,dota2.com
