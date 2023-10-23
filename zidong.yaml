@@ -1,3 +1,4 @@
+payload:
 #docker  
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
@@ -16,5 +17,4 @@
 #pornhub
   - DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-SUFFIX,phncdn.com
-#油猴
   - DOMAIN-SUFFIX,greasyfork.org,
