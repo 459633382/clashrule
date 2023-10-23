@@ -1,46 +1,20 @@
-#google gmail
-  - DOMAIN-SUFFIX,accounts.google.com,🇺🇸 美国
-  - DOMAIN-SUFFIX,mail.google.com,🇺🇸 美国
-  - DOMAIN-SUFFIX,gmail.com,🇺🇸 美国
-  - DOMAIN-SUFFIX,play.google.com,🇺🇸 美国
-  - DOMAIN-SUFFIX,mail-ads.google.com,🇺🇸 美国
-#google voice
-  - DOMAIN-SUFFIX,voice.google.com,🇺🇸 美国
-  - DOMAIN-SUFFIX,web.voice.telephony.goog,🇺🇸 美国
-  - DOMAIN-SUFFIX,payments.google.com,🇺🇸 美国
-  - DOMAIN-SUFFIX,ogs.google.com,🇺🇸 美国
-#docker
-  - DOMAIN-SUFFIX,docker.com,♻ 自动选择
-  - DOMAIN-SUFFIX,docker.io,♻ 自动选择
+#docker  
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docker.io
 #不良林
-  - DOMAIN-SUFFIX,bulianglin.com,♻ 自动选择
+  - DOMAIN-SUFFIX,bulianglin.com
 #tmdb
-  - DOMAIN-SUFFIX,themoviedb.org,♻ 自动选择
-  - DOMAIN-SUFFIX,tmdb.org,♻ 自动选择
+  - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN-SUFFIX,tmdb.org
 #Mdcxx
-  - DOMAIN-SUFFIX,airav.cc,🇭🇰 香港
-  - DOMAIN-SUFFIX,paycalling.com,🇭🇰 香港
-  - DOMAIN-SUFFIX,javdb.com,🇭🇰 香港
-  - DOMAIN-SUFFIX,xcity.jp,🇭🇰 香港
-  - DOMAIN-SUFFIX,www.lulubar.net,🇭🇰 香港
-  - DOMAIN-SUFFIX,www.kin8tengoku.com,🇭🇰 香港
+  - DOMAIN-SUFFIX,airav.cc
+  - DOMAIN-SUFFIX,paycalling.com
+  - DOMAIN-SUFFIX,javdb.com
+  - DOMAIN-SUFFIX,xcity.jp
+  - DOMAIN-SUFFIX,www.lulubar.net
+  - DOMAIN-SUFFIX,www.kin8tengoku.com
 #pornhub
-  - DOMAIN-SUFFIX,pornhub.com,♻ 自动选择 
-  - DOMAIN-SUFFIX,phncdn.com,♻ 自动选择 
-#dota2
-  - DOMAIN-SUFFIX,dota2.com,🎯 游戏平台
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,phncdn.com
 #油猴
-  - DOMAIN-SUFFIX,greasyfork.org,♻ 自动选择 
-#pt
-  - DOMAIN-SUFFIX,leaves.red,DIRECT
-  - DOMAIN-SUFFIX,ptchdbits.co,DIRECT
-  - DOMAIN-SUFFIX,pt.0ff.cc,DIRECT
-  - DOMAIN-SUFFIX,shadowflow.org,DIRECT
-  - DOMAIN-SUFFIX,xp.m-team.io,DIRECT
-  - DOMAIN-SUFFIX,s3.pterclub.com,DIRECT
-#腾讯抓包
-  - DOMAIN-SUFFIX,widevine.pterclub.top,DIRECT
-#hetzner
-  - DOMAIN-SUFFIX,hetzner.company,DIRECT
-  - DOMAIN-SUFFIX,hetzner.cloud,DIRECT
-  - DOMAIN-SUFFIX,hetzner.com,DIRECT
+  - DOMAIN-SUFFIX,greasyfork.org,
