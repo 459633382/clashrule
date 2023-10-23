@@ -1,13 +1,17 @@
 payload:
+#pt
   - DOMAIN-SUFFIX,leaves.red
   - DOMAIN-SUFFIX,ptchdbits.co
   - DOMAIN-SUFFIX,pt.0ff.cc
   - DOMAIN-SUFFIX,shadowflow.org
   - DOMAIN-SUFFIX,xp.m-team.io
   - DOMAIN-SUFFIX,s3.pterclub.com
+#腾讯抓包
   - DOMAIN-SUFFIX,widevine.pterclub.top
+#hz
   - DOMAIN-SUFFIX,hetzner.company
   - DOMAIN-SUFFIX,hetzner.cloud
   - DOMAIN-SUFFIX,www.hetzner.com
   - DOMAIN-SUFFIX,hetzner.com
+游戏
   - DOMAIN-SUFFIX,dota2.com
