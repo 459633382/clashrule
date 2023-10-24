@@ -1,11 +1,11 @@
 #google gmail
-- DOMAIN-SUFFIX,accounts.google.com
-- DOMAIN-SUFFIX,mail.google.com
-- DOMAIN-SUFFIX,gmail.com
-- DOMAIN-SUFFIX,play.google.com
-- DOMAIN-SUFFIX,mail-ads.google.com
+DOMAIN-SUFFIX,accounts.google.com
+DOMAIN-SUFFIX,mail.google.com
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,play.google.com
+DOMAIN-SUFFIX,mail-ads.google.com
 #google voice
-- DOMAIN-SUFFIX,voice.google.com
-- DOMAIN-SUFFIX,web.voice.telephony.goog
-- DOMAIN-SUFFIX,payments.google.com
-- DOMAIN-SUFFIX,ogs.google.com
+DOMAIN-SUFFIX,voice.google.com
+DOMAIN-SUFFIX,web.voice.telephony.goog
+DOMAIN-SUFFIX,payments.google.com
+DOMAIN-SUFFIX,ogs.google.com
