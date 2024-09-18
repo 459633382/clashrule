@@ -16,5 +16,14 @@ payload:
   - DOMAIN-SUFFIX,hetzner.cloud
   - DOMAIN-SUFFIX,www.hetzner.com
   - DOMAIN-SUFFIX,hetzner.com
-游戏
+#游戏
   - DOMAIN-SUFFIX,dota2.com
+#美团酒店
+DOMAIN-SUFFIX,dianping.com
+DOMAIN-SUFFIX,maoyan.com
+DOMAIN-SUFFIX,meituan.com
+DOMAIN-SUFFIX,meituan.net
+DOMAIN-SUFFIX,mtyun.com
+DOMAIN-SUFFIX,neixin.cn
+DOMAIN-SUFFIX,sankuai.com
+
